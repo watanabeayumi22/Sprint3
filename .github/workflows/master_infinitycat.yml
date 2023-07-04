@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'InfinityCat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6BECA55F3884425584DED2FC4842A85A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7FFBB4541CD042FB9945C65DD2AD5329 }}
           package: .
